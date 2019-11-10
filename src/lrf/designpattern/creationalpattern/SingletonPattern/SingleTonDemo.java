@@ -20,5 +20,11 @@ public class SingleTonDemo {
 
         Singleton4 s4 = Singleton4.getInstance();
         s4.say();
+
+        Singleton5 s5 = Singleton5.getInstance();
+        s5.say();
+
+        Singleton6 s6 = Singleton6.INSTANCE;
+        s6.say();
     }
 }
