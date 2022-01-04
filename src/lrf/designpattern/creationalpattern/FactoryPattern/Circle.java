@@ -1,7 +1,7 @@
 package lrf.designpattern.creationalpattern.FactoryPattern;
 
 /**
- * TODO
+ * 具体Shape的实现
  *
  * @author lirufeng
  * @date 2019/1/25 12:48

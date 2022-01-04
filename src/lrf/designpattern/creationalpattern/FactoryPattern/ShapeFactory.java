@@ -1,7 +1,7 @@
 package lrf.designpattern.creationalpattern.FactoryPattern;
 
 /**
- * TODO
+ * 工厂，用于生产具体的类型
  *
  * @author lirufeng
  * @date 2019/1/25 12:49
