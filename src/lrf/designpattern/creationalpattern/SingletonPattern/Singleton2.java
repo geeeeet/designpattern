@@ -18,7 +18,7 @@ package lrf.designpattern.creationalpattern.SingletonPattern;
  */
 public class Singleton2 {
 
-    private static Singleton2 instance;
+    private static volatile Singleton2 instance;
     // 让构造函数为 private，这样该类就不会被实例化
     private Singleton2 (){}
     public static synchronized Singleton2 getInstance() {
