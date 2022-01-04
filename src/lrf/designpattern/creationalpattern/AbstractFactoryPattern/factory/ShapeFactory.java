@@ -7,7 +7,7 @@ import lrf.designpattern.creationalpattern.AbstractFactoryPattern.impl.Rectangle
 import lrf.designpattern.creationalpattern.AbstractFactoryPattern.impl.Square;
 
 /**
- * TODO
+ * 生产Shape的具体工厂，Shape本身有多种类型
  *
  * @author lirufeng
  * @date 2019/1/25 14:55

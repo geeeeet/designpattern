@@ -7,7 +7,7 @@ import lrf.designpattern.creationalpattern.AbstractFactoryPattern.impl.Green;
 import lrf.designpattern.creationalpattern.AbstractFactoryPattern.impl.Red;
 
 /**
- * TODO
+ * 生产Color的具体工厂，Color有多种类型
  *
  * @author lirufeng
  * @date 2019/1/25 15:02

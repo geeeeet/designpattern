@@ -15,6 +15,7 @@ package lrf.designpattern.creationalpattern.SingletonPattern;
  * @date 2019/1/25 16:32
  */
 public class Singleton1 {
+    // 类加载时，未实例化对象，调用方法时才会创建，属于懒加载模式
     private static Singleton1 instance;
     // 让构造函数为 private，这样该类就不会被实例化
     private Singleton1 (){}

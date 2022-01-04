@@ -5,7 +5,7 @@ import lrf.designpattern.creationalpattern.AbstractFactoryPattern.factory.ColorF
 import lrf.designpattern.creationalpattern.AbstractFactoryPattern.factory.ShapeFactory;
 
 /**
- * TODO
+ * 工厂的消费者，能根据产品类型生产相应的工厂
  *
  * @author lirufeng
  * @date 2019/1/25 15:06
