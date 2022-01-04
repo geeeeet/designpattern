@@ -1,7 +1,7 @@
 package lrf.designpattern.creationalpattern.PrototypePattern;
 
 /**
- * 描述
+ * 原型模式
  *
  * @author lirufeng
  * @version 1.0.0
