@@ -1,8 +1,9 @@
-package lrf.designpattern.creationalpattern.BuilderPattern.meal;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal;
 
-import lrf.designpattern.creationalpattern.BuilderPattern.food.Burger;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.food.Burger;
 
 /**
+ * 具体的的实现者，
  * @author lirufeng
  * @date 2019/11/10 下午 2:44
  */

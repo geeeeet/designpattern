@@ -1,13 +1,16 @@
 package lrf.designpattern.creationalpattern.BuilderPattern;
 
-import lrf.designpattern.creationalpattern.BuilderPattern.meal.ChickenBurger;
-import lrf.designpattern.creationalpattern.BuilderPattern.meal.Coke;
-import lrf.designpattern.creationalpattern.BuilderPattern.meal.Pepsi;
-import lrf.designpattern.creationalpattern.BuilderPattern.meal.VegBurger;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.Meal;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal.ChickenBurger;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal.Coke;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal.Pepsi;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal.VegBurger;
 
 /**
  * 创建一个 MealBuilder 类，实际的 builder 类负责创建 Meal 对象。
  * 现在我们来创建我们套餐有哪些食物
+ *
+ * 属于指挥者
  * @author lirufeng
  * @date 2019/11/10 下午 2:55
  */

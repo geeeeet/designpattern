@@ -1,6 +1,6 @@
-package lrf.designpattern.creationalpattern.BuilderPattern.meal;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal;
 
-import lrf.designpattern.creationalpattern.BuilderPattern.food.ColdDrink;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.food.ColdDrink;
 
 /**
  * @author lirufeng

@@ -1,4 +1,4 @@
-package lrf.designpattern.creationalpattern.BuilderPattern.packing;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.packing;
 
 /**
  * @author lirufeng
