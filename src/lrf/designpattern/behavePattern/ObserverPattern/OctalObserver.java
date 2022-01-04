@@ -1,4 +1,4 @@
-package lrf.designpattern.ObserverPattern;
+package lrf.designpattern.behavePattern.ObserverPattern;
 
 /**
  * @Author lirufeng

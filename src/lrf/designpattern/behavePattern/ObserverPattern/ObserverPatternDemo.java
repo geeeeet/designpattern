@@ -1,6 +1,4 @@
-package lrf.designpattern.ObserverPattern;
-
-import java.util.Map;
+package lrf.designpattern.behavePattern.ObserverPattern;
 
 /**
  * @Author lirufeng

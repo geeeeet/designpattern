@@ -1,4 +1,4 @@
-package lrf.designpattern.ObserverPattern;
+package lrf.designpattern.behavePattern.ObserverPattern;
 
 import java.util.ArrayList;
 import java.util.List;
