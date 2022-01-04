@@ -1,6 +1,6 @@
-package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.item;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.item;
 
-import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.packing.Packing;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.packing.Packing;
 
 /**
  * 创建一个表示食物条目和食物包装的接口。

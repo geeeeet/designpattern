@@ -1,6 +1,4 @@
-package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple;
-
-import lrf.designpattern.creationalpattern.BuilderPattern.MealBuilder;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample;
 
 /**
  * 一个比较复杂的例子

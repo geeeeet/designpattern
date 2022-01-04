@@ -1,4 +1,4 @@
-package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.packing;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.packing;
 
 /**
  * 创建实现 Packing 接口的实体类。

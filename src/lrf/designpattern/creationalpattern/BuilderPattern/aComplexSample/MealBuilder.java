@@ -1,10 +1,10 @@
-package lrf.designpattern.creationalpattern.BuilderPattern;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample;
 
-import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.Meal;
-import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal.ChickenBurger;
-import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal.Coke;
-import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal.Pepsi;
-import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal.VegBurger;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.Meal;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.meal.ChickenBurger;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.meal.Coke;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.meal.Pepsi;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.meal.VegBurger;
 
 /**
  * 创建一个 MealBuilder 类，实际的 builder 类负责创建 Meal 对象。

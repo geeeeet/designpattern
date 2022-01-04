@@ -1,6 +1,6 @@
-package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample;
 
-import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.item.Item;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.item.Item;
 
 import java.util.ArrayList;
 import java.util.List;

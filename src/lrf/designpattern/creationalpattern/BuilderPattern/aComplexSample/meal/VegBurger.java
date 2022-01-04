@@ -1,6 +1,6 @@
-package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.meal;
+package lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.meal;
 
-import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSimple.food.Burger;
+import lrf.designpattern.creationalpattern.BuilderPattern.aComplexSample.food.Burger;
 
 /**
  * 创建扩展了 Burger 和 ColdDrink 的实体类。
