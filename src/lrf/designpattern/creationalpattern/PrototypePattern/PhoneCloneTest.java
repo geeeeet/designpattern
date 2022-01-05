@@ -20,6 +20,7 @@ public class PhoneCloneTest {
         Phone phone1 = PhoneCache.getPhone(1L);
         phone1.setName("2222223232323");
         System.out.println(phone.hashCode()== phone1.hashCode());
+        System.out.println(phone.equals(phone1));
 
         System.out.println(phone.getName());
 

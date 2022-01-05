@@ -14,7 +14,7 @@ public class PhoneCache {
 
     private static Map<Long,Phone> map = new HashMap<>();
 
-    // 每次获取对象都是得到相应手机类型的一个克隆对象,这里是浅克隆，只返回对象的指针
+    // 每次获取对象都是得到相应手机类型的一个克隆对象,深拷贝
     public static Phone getPhone(Long typeId) {
         Phone phone = map.get(typeId);
         return  (Phone)phone.clone();

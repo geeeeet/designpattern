@@ -31,6 +31,7 @@ public abstract class Phone implements Cloneable {
         this.name = name;
     }
 
+    // 深拷贝
     public Object clone() {
         Object clone = null;
         try {
